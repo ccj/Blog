@@ -1,6 +1,5 @@
 /output
 output.tar.gz
-.vscode
 /node_modules
 .idea/
 .DS_Store
