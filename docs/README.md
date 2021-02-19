@@ -17,8 +17,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccj&theme=vue&layout=compact)
 
----
-
 
 ## Contact me
 
