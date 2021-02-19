@@ -1,87 +1,33 @@
-[[toc]]
+# 🥳 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 ccj ٩(๑>◡<๑)۶
 
-# Hello VuePress
-## dsfa
+[![](https://img.shields.io/badge/-@ccj-%23181717?style=flat-square&logo=github)](https://github.com/ccj)
 
-### fsadfsdfas
-##### 11111
-## dsfa
-### fsadfsdfas
-## dsfa
-### fsadfsdfas
+🏖 前端和移动端开发者
 
-::: tip
-这是一个提示
-:::
+- 热衷于新奇的事物 🤩 热爱思考
+- 喜欢分享 🧐
 
-s
+**寻找热爱前端的开发者，一起加入组织，群聊等，一起交流技术，变强 😊**
 
-::: warning
-这是一个警告
-:::
+## Status
 
-::: danger
-这是一个危险警告
-:::
+[![ccj github stats](https://github-readme-stats.vercel.app/api?username=ccj&count_private=true&show_icons=true&theme=radical)](https://github.com/ccj)
 
-::: details
-这是一个详情块，在 IE / Edge 中不生效
-:::
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccj&theme=radical)](https://github.com/ccj)
 
-::: danger STOP
-危险区域，禁止通行
-:::
+---
 
-::: details 点击查看代码
-```js
-console.log('你好，VuePress！')
+<!--START_SECTION:waka-->
+```text
+Week: 11 February, 2021 - 18 February, 2021
+
+Vue.js       3 mins          ██████████████████████░░░   87.34 % 
 ```
-:::
+<!--END_SECTION:waka-->
 
-<img :src="$withBase('/foo.png')" alt="foo">
+## Contact me
 
-:tada: :100:
-
-``` js
-export default {
-  name: 'MyComponent',
-  // ...
-}
+```text
+email: 981015619@qq.com
+QQ: 981015619
 ```
-
-``` html
-<ul>
-  <li
-    v-for="todo in todos"
-    :key="todo.id"
-  >
-    {{ todo.text }}
-  </li>
-</ul>
-```
-
-``` js {3,5-6}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
-
-``` js{1,4,6-7}
-export default { // Highlighted
-  data () {
-    return {
-      msg: `Highlighted!
-      This line isn't highlighted,
-      but this and the next 2 are.`,
-      motd: 'VuePress is awesome',
-      lorem: 'ipsum',
-    }
-  }
-}
-```
-
-<<< docs/.vuepress/file.js{2,5-6}

@@ -1,6 +1,6 @@
 module.exports = {
-    title: 'Hello VuePress',
-    description: 'Just playing around',
+    title: 'ccj技术博客',
+    description: '持续更新，是坚持也是进步',
     configureWebpack: {
         resolve: {
             alias: {
