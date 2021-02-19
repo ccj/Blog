@@ -11,23 +11,18 @@
 
 ## Status
 
-[![ccj github stats](https://github-readme-stats.vercel.app/api?username=ccj&count_private=true&show_icons=true&theme=radical)](https://github.com/ccj)
+[![ccj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ccj)](https://github.com/ccj/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccj&theme=radical)](https://github.com/ccj)
+![ccj github stats](https://github-readme-stats.vercel.app/api?username=ccj&count_private=true&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccj&theme=vue&layout=compact)
 
 ---
 
-<!--START_SECTION:waka-->
-```text
-Week: 11 February, 2021 - 18 February, 2021
-
-Vue.js       3 mins          ██████████████████████░░░   87.34 % 
-```
-<!--END_SECTION:waka-->
 
 ## Contact me
 
-```text
-email: 981015619@qq.com
-QQ: 981015619
-```
+
+> email: 981015619@qq.com    
+> QQ: 981015619
+
